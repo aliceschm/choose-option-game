@@ -2,6 +2,11 @@
 
 A simple interactive web application built with React that helps groups make decisions by combining user preferences and randomness.
 
+
+## Live Demo
+
+[choose-option-game](https://choose-option-game.vercel.app)
+
 ## Overview
 
 This project allows multiple participants to input their preferred options in order of priority. Based on these inputs, the application determines a result using a mix of matching logic and random selection.
